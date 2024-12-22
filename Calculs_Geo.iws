@@ -45,9 +45,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1287" />
     <option name="y" value="-254" />
@@ -131,7 +131,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/535975/Documents/Calculs_Geo/Calculs_Geo",
+    "last_opened_file_path": "C:/Users/hadji/OneDrive/Bureau/Cours Umons/Expertise_degitale/Codes_TP2/Codes_TP2/Codes_TP2/Geo_VF",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -251,6 +251,7 @@
       <workItem from="1605187195808" duration="66000" />
       <workItem from="1605187487837" duration="595000" />
       <workItem from="1733163662135" duration="68000" />
+      <workItem from="1734830390164" duration="47000" />
     </task>
     <servers />
   </component>

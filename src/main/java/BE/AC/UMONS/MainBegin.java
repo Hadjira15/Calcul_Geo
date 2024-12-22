@@ -2,7 +2,7 @@ package BE.AC.UMONS;
 
 public class MainBegin {
     public static void main(String args[]) {
-
+        System.out.println("c'est un test");
         System.out.println("Addition (10,10) = " + Addition.add(10,10));
 
         System.out.println("Produit (6, 10) = " + Produit.mult(6,10));
